@@ -6,7 +6,7 @@
 
 ## 计算机系统与网络
 
-*   《[图灵的秘密:他的生平、思想及论文解读](https://www.amazon.cn/gp/product/B00AAQXKXS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00AAQXKXS&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[图灵的秘密:他的生平、思想及论文解读](https://pan.baidu.com/s/1QsLkXoGcy0Us9KcOqK9RJw》
 *   《[计算机系统概论](https://www.amazon.cn/gp/product/B0011F9OQE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F9OQE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入理解Linux内核](https://www.amazon.cn/gp/product/B0011F5RYM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F5RYM&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入Linux内核架构](https://www.amazon.cn/gp/product/B003QN7J7U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003QN7J7U&amp;linkCode=as2&amp;tag=vastwork-23)》
