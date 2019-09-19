@@ -1,7 +1,7 @@
 # 书籍PDF
 
 ## Java基础
-《[Java语言程序设计（基础篇）（原书第10版）]》(https://pan.baidu.com/s/1R6anwQZXpixfDS0JZlYkvA)
+《[Java语言程序设计（基础篇）（原书第10版）](https://pan.baidu.com/s/1R6anwQZXpixfDS0JZlYkvA)》
 提取码：y4wb
 ## Java开发
 
