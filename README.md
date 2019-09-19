@@ -1,5 +1,21 @@
 # 书籍PDF
 
+## Java基础
+《[Java语言程序设计（基础篇）（原书第10版）]》(https://pan.baidu.com/s/1R6anwQZXpixfDS0JZlYkvA)
+提取码：y4wb
+## Java开发
+
+*   《[Java8 实战](https://www.amazon.cn/gp/product/B01ER75QC8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01ER75QC8&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Java并发编程实战](https://www.amazon.cn/gp/product/B0077K9XHW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0077K9XHW&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Java性能权威指南](https://www.amazon.cn/gp/product/B01DLB7Z66/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01DLB7Z66&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Java程序员修炼之道](https://www.amazon.cn/gp/product/B00E0D2OX4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00E0D2OX4&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[实战Java高并发程序设计](https://www.amazon.cn/gp/product/B017MEN094/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B017MEN094&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Java编程思想 （第4版）](https://www.amazon.cn/gp/product/B0011F7WU4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F7WU4&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[深入理解Java虚拟机（第2版）](https://www.amazon.cn/gp/product/B01HI0BUF8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01HI0BUF8&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Effective java 中文版（第2版）](https://www.amazon.cn/gp/product/B001PTGR52/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001PTGR52&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Java核心技术·卷1：基础知识（原书第9版）](https://www.amazon.cn/gp/product/B01M22BGUQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01M22BGUQ&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Java核心技术·卷2：高级特性（原书第9版）](https://www.amazon.cn/gp/product/B00IK7SM6O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00IK7SM6O&amp;linkCode=as2&amp;tag=vastwork-23)》
+
 ## Web前端
 
 *   《[高性能 JavaScript](https://www.amazon.cn/gp/product/B013SGB2AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B013SGB2AO&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -25,19 +41,6 @@
 *   《[深入浅出 HTML 与 CSS](https://www.amazon.cn/gp/product/B01LXL42O5/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01LXL42O5&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[ES6 标准入门（第三版）](https://www.amazon.cn/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8-%E9%98%AE%E4%B8%80%E5%B3%B0/dp/B0755547ZZ/ref=sr_1_3?s=books&ie=UTF8&qid=1510299626&sr=1-3&keywords=Ecmascript)》
 *   《[深入理解 ES6](https://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6-Nicholas-C-Zakas/dp/B071GW3JDP/ref=sr_1_1?s=books&ie=UTF8&qid=1510299626&sr=1-1&keywords=Ecmascript)》
-
-## Java开发
-
-*   《[Java8 实战](https://www.amazon.cn/gp/product/B01ER75QC8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01ER75QC8&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Java并发编程实战](https://www.amazon.cn/gp/product/B0077K9XHW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0077K9XHW&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Java性能权威指南](https://www.amazon.cn/gp/product/B01DLB7Z66/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01DLB7Z66&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Java程序员修炼之道](https://www.amazon.cn/gp/product/B00E0D2OX4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00E0D2OX4&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[实战Java高并发程序设计](https://www.amazon.cn/gp/product/B017MEN094/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B017MEN094&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Java编程思想 （第4版）](https://www.amazon.cn/gp/product/B0011F7WU4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F7WU4&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[深入理解Java虚拟机（第2版）](https://www.amazon.cn/gp/product/B01HI0BUF8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01HI0BUF8&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Effective java 中文版（第2版）](https://www.amazon.cn/gp/product/B001PTGR52/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001PTGR52&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Java核心技术·卷1：基础知识（原书第9版）](https://www.amazon.cn/gp/product/B01M22BGUQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01M22BGUQ&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[Java核心技术·卷2：高级特性（原书第9版）](https://www.amazon.cn/gp/product/B00IK7SM6O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00IK7SM6O&amp;linkCode=as2&amp;tag=vastwork-23)》
 
 ## Python
 
