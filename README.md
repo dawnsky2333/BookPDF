@@ -4,7 +4,7 @@
 
 *   《[高性能 JavaScript](https://www.amazon.cn/gp/product/B013SGB2AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B013SGB2AO&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[锋利的 jQuery（第2版）](https://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0089TDFNS&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[JavaScript 忍者秘籍](https://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B016DWSEWO&amp;linkCode=as2&amp;tag=vastwork-23)》（感谢[@joker-danta](https://github.com/jobbole/awesome-programming-books/issues?q=is%3Aissue+is%3Aopen+author%3Ajoker-danta) 补充推荐）
+*   《[JavaScript 忍者秘籍](https://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B016DWSEWO&amp;linkCode=as2&amp;tag=vastwork-23)》(https://github.com/jobbole/awesome-programming-books/issues?q=is%3Aissue+is%3Aopen+author%3Ajoker-danta)
 *   《[编写可维护的 JavaScript](https://www.amazon.cn/gp/product/B00BQ7RMW0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00BQ7RMW0&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[你不知道的 JavaScript（上）](https://www.amazon.cn/gp/product/B00W34DZ8K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00W34DZ8K&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[你不知道的 JavaScript（中）](https://www.amazon.cn/gp/product/B01LMYXGAI/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
@@ -116,12 +116,11 @@
 
 ## 数据库
 
-* 《[数据库系统概念](https://amazon.cn/gp/product/B007KYSEZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B007KYSEZC&linkId=32d1830aaeeda5b1ccaf242af94e73ad)》 感谢[@noisnemid](https://github.com/noisnemid) [推荐](https://github.com/jobbole/awesome-programming-books/issues/16)
+* 《[数据库系统概念](https://amazon.cn/gp/product/B007KYSEZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B007KYSEZC&linkId=32d1830aaeeda5b1ccaf242af94e73ad)》(https://github.com/noisnemid)(https://github.com/jobbole/awesome-programming-books/issues/16)
 * 《[数据库系统实现](https://amazon.cn/gp/product/B003NX8D0A/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B003NX8D0A&linkId=3d1723a92384a5febb43c2400b31f1fe)》
 *   《[SQL应用重构](https://www.amazon.cn/gp/product/B00H6X6M1A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00H6X6M1A&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[SQL Cookbook](https://www.amazon.cn/gp/product/0596009763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=0596009763&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[高性能MySQL （第3版）](https://www.amazon.cn/gp/product/B00C1W58DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00C1W58DE&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《深入浅出SQL（中文版）》
 *   《[MySQL技术内幕 : InnoDB存储引擎（第2版）](https://www.amazon.cn/gp/product/B00ETOV48K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ETOV48K&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[收获,不止SQL优化:抓住SQL的本质](https://www.amazon.cn/%E6%94%B6%E8%8E%B7-%E4%B8%8D%E6%AD%A2SQL%E4%BC%98%E5%8C%96-%E6%8A%93%E4%BD%8FSQL%E7%9A%84%E6%9C%AC%E8%B4%A8-%E6%A2%81%E6%95%AC%E5%BD%AC/dp/B071S6ZYH8/ref=sr_1_1?s=books&ie=UTF8&qid=1510300270&sr=1-1&keywords=%E4%B8%8D%E6%AD%A2+sql)》
 *   《[SQL Server 性能优化与管理的艺术](https://www.amazon.cn/SQL-Server%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%A1%E7%90%86%E7%9A%84%E8%89%BA%E6%9C%AF-%E9%BB%84%E9%92%8A%E5%90%89/dp/B00NW2FVAM/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1510300294&sr=1-8)》
