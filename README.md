@@ -44,7 +44,6 @@
 *   《[集体智慧编程](https://www.amazon.cn/gp/product/B00UI93JD8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00UI93JD8&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[笨办法学Python](https://www.amazon.cn/gp/product/B00P6OJ0TC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00P6OJ0TC&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Python基础教程](https://www.amazon.cn/gp/product/B00KAFX65Q/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00KAFX65Q&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《Python源码剖析》
 *   《[Head First Python](https://www.amazon.cn/gp/product/B007NB2B4M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007NB2B4M&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[与孩子一起学编程](https://www.amazon.cn/gp/product/B00HECW20S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00HECW20S&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Python学习手册（第4版）](https://www.amazon.cn/gp/product/B004TUJ7A6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004TUJ7A6&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -84,13 +83,11 @@
 *   《[C陷阱与缺陷](https://www.amazon.cn/gp/product/B0012UMPBY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0012UMPBY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[C语言接口与实现](https://www.amazon.cn/gp/product/B01D10NSCM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01D10NSCM&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[C程序设计语言（第2版）](https://www.amazon.cn/gp/product/B0011425T8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011425T8&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《C语言参考手册（第5版）》
 
 ## C++
 
 *   《[C++标准库](https://www.amazon.cn/gp/product/B00YLZIRHI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00YLZIRHI&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[C++编程思想](https://www.amazon.cn/gp/product/B005CFUQR0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B005CFUQR0&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   <span style="font-weight: normal;">《</span>C++语言的设计与演化<span style="font-weight: normal;">》</span>
 *   《[C++程序设计原理与实践](https://www.amazon.cn/gp/product/B003VPX6YS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003VPX6YS&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[C++ Primer （中文第5版）](https://www.amazon.cn/gp/product/B00ESUIL0O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ESUIL0O&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[C++ Primer习题集(第5版)](https://www.amazon.cn/gp/product/B00S6U4C6E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00S6U4C6E&amp;linkCode=as2&amp;tag=vastwork-23) 》
@@ -126,7 +123,6 @@
 *   《[高性能MySQL （第3版）](https://www.amazon.cn/gp/product/B00C1W58DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00C1W58DE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《深入浅出SQL（中文版）》
 *   《[MySQL技术内幕 : InnoDB存储引擎（第2版）](https://www.amazon.cn/gp/product/B00ETOV48K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ETOV48K&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[深入浅出MySQL : 数据库开发、优化与管理维护](https://www.amazon.cn/gp/product/B00KR87J8G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00KR87J8G&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[收获,不止SQL优化:抓住SQL的本质](https://www.amazon.cn/%E6%94%B6%E8%8E%B7-%E4%B8%8D%E6%AD%A2SQL%E4%BC%98%E5%8C%96-%E6%8A%93%E4%BD%8FSQL%E7%9A%84%E6%9C%AC%E8%B4%A8-%E6%A2%81%E6%95%AC%E5%BD%AC/dp/B071S6ZYH8/ref=sr_1_1?s=books&ie=UTF8&qid=1510300270&sr=1-1&keywords=%E4%B8%8D%E6%AD%A2+sql)》
 *   《[SQL Server 性能优化与管理的艺术](https://www.amazon.cn/SQL-Server%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%A1%E7%90%86%E7%9A%84%E8%89%BA%E6%9C%AF-%E9%BB%84%E9%92%8A%E5%90%89/dp/B00NW2FVAM/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1510300294&sr=1-8)》
 
