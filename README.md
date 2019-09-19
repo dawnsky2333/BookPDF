@@ -4,7 +4,7 @@
 
 *   《[高性能 JavaScript](https://www.amazon.cn/gp/product/B013SGB2AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B013SGB2AO&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[锋利的 jQuery（第2版）](https://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0089TDFNS&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[JavaScript 忍者秘籍](https://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B016DWSEWO&amp;linkCode=as2&amp;tag=vastwork-23)》(https://github.com/jobbole/awesome-programming-books/issues?q=is%3Aissue+is%3Aopen+author%3Ajoker-danta)
+*   《[JavaScript 忍者秘籍](https://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B016DWSEWO&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[编写可维护的 JavaScript](https://www.amazon.cn/gp/product/B00BQ7RMW0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00BQ7RMW0&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[你不知道的 JavaScript（上）](https://www.amazon.cn/gp/product/B00W34DZ8K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00W34DZ8K&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[你不知道的 JavaScript（中）](https://www.amazon.cn/gp/product/B01LMYXGAI/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
@@ -116,7 +116,7 @@
 
 ## 数据库
 
-* 《[数据库系统概念](https://amazon.cn/gp/product/B007KYSEZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B007KYSEZC&linkId=32d1830aaeeda5b1ccaf242af94e73ad)》(https://github.com/noisnemid)(https://github.com/jobbole/awesome-programming-books/issues/16)
+* 《[数据库系统概念](https://amazon.cn/gp/product/B007KYSEZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B007KYSEZC&linkId=32d1830aaeeda5b1ccaf242af94e73ad)》
 * 《[数据库系统实现](https://amazon.cn/gp/product/B003NX8D0A/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B003NX8D0A&linkId=3d1723a92384a5febb43c2400b31f1fe)》
 *   《[SQL应用重构](https://www.amazon.cn/gp/product/B00H6X6M1A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00H6X6M1A&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[SQL Cookbook](https://www.amazon.cn/gp/product/0596009763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=0596009763&amp;linkCode=as2&amp;tag=vastwork-23)》
